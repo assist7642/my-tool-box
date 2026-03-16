@@ -12,10 +12,10 @@
 ### 🖥 Windows Commands
 | 분류 | 도구명 | 설명 | 주요 기술 |
 | :--- | :--- | :--- | :--- |
-| **System Repair** | [CheckHealth](./Windows/System-Repair/dism-checkhealth.md) | Windows 이미지 손상 기록 확인 | CLI |
-| **System Repair** | [ScanHealth](./Windows/System-Repair/dism-scanhealth.md) | Windows 이미지 손상 여부 검사 | CLI |
-| **System Repair** | [RestoreHealth](./Windows/System-Repair/dism-restorehealth.md) | Windows 이미지 손상 복구 | CLI |
-| **System Repair** | [SFC Scannow](./Windows/System-Repair/sfc-scannow.md) | Windows 시스템 파일 검사 및 복구 | CLI |
+| **System Repair** | [CheckHealth](./Windows/System-Repair/DISM-CheckHealth.md) | Windows 이미지 손상 기록 확인 | CLI |
+| **System Repair** | [ScanHealth](./Windows/System-Repair/DISM-ScanHealth.md) | Windows 이미지 손상 여부 검사 | CLI |
+| **System Repair** | [RestoreHealth](./Windows/System-Repair/DISM-RestoreHealth.md) | Windows 이미지 손상 복구 | CLI |
+| **System Repair** | [SFC Scannow](./Windows/System-Repair/SFC-Scannow.md) | Windows 시스템 파일 검사 및 복구 | CLI |
 
 ### 🐧 Linux Scripts
 - (준비 중입니다. 곧 업데이트될 예정입니다!)
